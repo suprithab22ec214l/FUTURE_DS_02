@@ -114,5 +114,3 @@ To build an interactive Power BI dashboard that tracks and evaluates the perform
 * KPI Creation
 * Visualization Storytelling
 * Marketing Analytics
-
-Just let me know!
